@@ -1,2 +1,2 @@
 # gweled-hack
-Simple hack score Gweled on Linux
+Simple external-hack score Gweled on Linux
